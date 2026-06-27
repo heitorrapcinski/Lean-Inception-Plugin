@@ -1,3 +1,8 @@
+---
+name: lean-doc-sequencer
+description: Gerencia o canvas docs/canvases/sequencer.md com a ordem de entrega das features por ondas. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-sequencer
 
 ## Objetivo

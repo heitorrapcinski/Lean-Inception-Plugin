@@ -1,3 +1,8 @@
+---
+name: lean-doc-backlog
+description: Gerencia o documento docs/backlog.md com lacunas e conflitos pendentes de validação humana. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-backlog
 
 ## Objetivo

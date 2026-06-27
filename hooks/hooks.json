@@ -1,14 +1,24 @@
 {
-  "hooks": [
+  "PostToolUse": [
     {
-      "event": "PostToolUse",
       "matcher": "Write|Edit",
-      "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/validate-evidence.js\""
-    },
+      "hooks": [
+        {
+          "type": "command",
+          "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/validate-evidence.js\""
+        }
+      ]
+    }
+  ],
+  "PreToolUse": [
     {
-      "event": "PreToolUse",
       "matcher": "Write|Edit",
-      "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/protect-human-validation.js\""
+      "hooks": [
+        {
+          "type": "command",
+          "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/protect-human-validation.js\""
+        }
+      ]
     }
   ]
 }

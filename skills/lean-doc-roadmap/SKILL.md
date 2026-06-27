@@ -1,3 +1,8 @@
+---
+name: lean-doc-roadmap
+description: Gerencia o canvas docs/canvases/roadmap.md com o horizonte Now/Next/Later e checklist de adoção brownfield. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-roadmap
 
 ## Objetivo

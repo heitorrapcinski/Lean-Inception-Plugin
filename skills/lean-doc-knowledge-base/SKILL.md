@@ -1,3 +1,8 @@
+---
+name: lean-doc-knowledge-base
+description: Gerencia o documento docs/knowledge-base.md com fatos extraídos de fontes rastreáveis. Invocado internamente pelo lean-discovery para registrar afirmações com evidência.
+---
+
 # lean-doc-knowledge-base
 
 ## Objetivo

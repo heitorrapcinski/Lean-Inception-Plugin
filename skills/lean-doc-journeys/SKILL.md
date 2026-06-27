@@ -1,3 +1,8 @@
+---
+name: lean-doc-journeys
+description: Gerencia o canvas docs/canvases/journeys.md com as jornadas de usuário que ligam personas a features. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-journeys
 
 ## Objetivo

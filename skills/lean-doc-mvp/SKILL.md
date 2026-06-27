@@ -1,3 +1,8 @@
+---
+name: lean-doc-mvp
+description: Gerencia o canvas docs/canvases/mvp.md com o escopo mínimo viável derivado dos canvases anteriores. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-mvp
 
 ## Objetivo

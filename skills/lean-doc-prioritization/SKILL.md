@@ -1,3 +1,8 @@
+---
+name: lean-doc-prioritization
+description: Gerencia o canvas docs/canvases/prioritization.md com a matriz de valor, esforço e classificação MoSCoW. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-prioritization
 
 ## Objetivo

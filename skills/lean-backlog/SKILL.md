@@ -1,3 +1,8 @@
+---
+name: lean-backlog
+description: Resolve pendências do backlog de Lean Inception via formulário com o consultor. Use quando o usuário disser "resolver backlog", "tratar pendências", "responder itens", "fechar BL-" ou invocar /lean:backlog.
+---
+
 # lean-backlog
 
 ## Objetivo

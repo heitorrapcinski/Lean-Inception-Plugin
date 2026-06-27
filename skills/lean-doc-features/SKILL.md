@@ -1,3 +1,8 @@
+---
+name: lean-doc-features
+description: Gerencia o canvas docs/canvases/features.md com as funcionalidades do sistema rastreadas à jornada de origem. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-features
 
 ## Objetivo

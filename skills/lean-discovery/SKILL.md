@@ -1,3 +1,8 @@
+---
+name: lean-discovery
+description: Executa o discovery de Lean Inception sobre as fontes indicadas. Use quando o usuário disser "rodar discovery", "escanear fontes", "fazer discovery em", "popular os canvases" ou invocar /lean:discovery.
+---
+
 # lean-discovery
 
 ## Objetivo

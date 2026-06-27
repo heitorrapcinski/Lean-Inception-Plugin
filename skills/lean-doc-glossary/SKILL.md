@@ -1,3 +1,8 @@
+---
+name: lean-doc-glossary
+description: Gerencia o documento docs/glossary.md com a linguagem ubíqua do projeto e conflitos de definição. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-glossary
 
 ## Objetivo

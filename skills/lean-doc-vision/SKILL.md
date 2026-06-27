@@ -1,3 +1,8 @@
+---
+name: lean-doc-vision
+description: Gerencia o canvas docs/canvases/vision.md com a visão do produto. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-vision
 
 ## Objetivo

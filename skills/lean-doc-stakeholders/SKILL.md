@@ -1,3 +1,8 @@
+---
+name: lean-doc-stakeholders
+description: Gerencia o canvas docs/canvases/stakeholders.md com o mapa de interesse e influência. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-stakeholders
 
 ## Objetivo

@@ -1,3 +1,8 @@
+---
+name: lean-doc-evidence-log
+description: Gerencia o documento docs/evidence-log.md com o registro imutável de evidências rastreáveis. Invocado internamente pelo lean-discovery e lean-backlog para criar entradas EV-XXX.
+---
+
 # lean-doc-evidence-log
 
 ## Objetivo

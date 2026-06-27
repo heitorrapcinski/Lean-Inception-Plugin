@@ -1,3 +1,8 @@
+---
+name: lean-doc-personas
+description: Gerencia o canvas docs/canvases/personas.md com os perfis de usuário evidenciados. Invocado internamente pelo lean-discovery e lean-backlog.
+---
+
 # lean-doc-personas
 
 ## Objetivo
