@@ -1,0 +1,5 @@
+{
+  "name": "lean-inception-plugin",
+  "version": "1.0.0",
+  "description": "Co-facilitador de Lean Inception para consultores em sistemas brownfield. Extrai conhecimento auditável de código e documentação, monta canvases com citação de fonte, e gerencia um backlog de lacunas para validação humana."
+}

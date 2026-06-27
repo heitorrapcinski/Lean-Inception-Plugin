@@ -1,0 +1,14 @@
+{
+  "hooks": [
+    {
+      "event": "PostToolUse",
+      "matcher": "Write|Edit",
+      "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/validate-evidence.js\""
+    },
+    {
+      "event": "PreToolUse",
+      "matcher": "Write|Edit",
+      "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/protect-human-validation.js\""
+    }
+  ]
+}
